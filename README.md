@@ -2,8 +2,8 @@
 git workshop
 test
 
-1. [¾ÆÄ§] (morning.md) 
+1. [ì•„ì¹¨] (morning.md) 
 
-2. [Á¡½É] (lunch.md)
+2. [ì ì‹¬] (lunch.md)
 
-3. [Àú³á] (dinner.md) 
+3. [ì €ë…] (dinner.md) 
